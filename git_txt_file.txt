@@ -5,3 +5,5 @@ This is a new line.
 Are there differences?
 
 Now create a new line, commit and push to github
+
+Adding a line in github via its online editor
