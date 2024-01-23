@@ -1,1 +1,3 @@
-this is a text file. But is it really?
+This is a text file. But is it really?
+
+This is a new line.
